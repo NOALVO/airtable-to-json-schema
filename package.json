@@ -1,0 +1,17 @@
+{
+  "name": "airtable-to-json-schema",
+  "version": "0.1.0",
+  "description": "Generates JSON Schema specification from Airtable schemas",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggondim/airtable-to-json-schema.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ggondim/airtable-to-json-schema/issues"
+  },
+  "homepage": "https://github.com/ggondim/airtable-to-json-schema#readme"
+}
